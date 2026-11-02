@@ -15,7 +15,7 @@ What the agent builds with it:
 **Claude Code** (all projects):
 
 ```bash
-git clone https://github.com/M-kabeer-47/print-ready-reports ~/.claude/skills/print-ready-reports
+git clone https://github.com/M-kabeer-47/Reports-Skill ~/.claude/skills/print-ready-reports
 ```
 
 For a single project, clone it into `<project>/.claude/skills/print-ready-reports` instead. Other agents work too: copy the folder into that agent's skills directory.
